@@ -1,6 +1,6 @@
 # Fintech-Finder
 
-This is an application that is use find fintech professionals from among a list of candidates, hire them, and pay them in cryptocurrency.
+This is an application that is used to find fintech professionals from among a list of candidates, hire them, and pay them in cryptocurrency.
 
 
 ## Technologies
