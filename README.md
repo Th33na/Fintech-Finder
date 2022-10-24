@@ -43,7 +43,7 @@ Upon selecting a candidate, input the number of hours and hit `Send Transaction`
 From the Ganache UI, the address show the remaining balance and total transactions
 ![ganache block](./images/ganache_block.png)
 
-From the tranactions tab, it will show the transaction hashes and details
+From the transactions tab, it will show the transaction hashes and details
 ![ganache transactions](./images/ganache_txns.png)
 
 
